@@ -1,0 +1,9 @@
+huggingface-hub
+numpy
+sentence-transformers
+uvicorn
+fastapi
+faiss-cpu 
+pydantic
+python-dotenv
+openai
